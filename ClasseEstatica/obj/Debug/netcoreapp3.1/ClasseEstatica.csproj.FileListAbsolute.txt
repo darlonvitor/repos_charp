@@ -1,0 +1,13 @@
+C:\Users\darlo\source\repos\ClasseEstatica\obj\Debug\netcoreapp3.1\ClasseEstatica.csprojAssemblyReference.cache
+C:\Users\darlo\source\repos\ClasseEstatica\obj\Debug\netcoreapp3.1\ClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\darlo\source\repos\ClasseEstatica\obj\Debug\netcoreapp3.1\ClasseEstatica.AssemblyInfoInputs.cache
+C:\Users\darlo\source\repos\ClasseEstatica\obj\Debug\netcoreapp3.1\ClasseEstatica.AssemblyInfo.cs
+C:\Users\darlo\source\repos\ClasseEstatica\bin\Debug\netcoreapp3.1\ClasseEstatica.exe
+C:\Users\darlo\source\repos\ClasseEstatica\bin\Debug\netcoreapp3.1\ClasseEstatica.deps.json
+C:\Users\darlo\source\repos\ClasseEstatica\bin\Debug\netcoreapp3.1\ClasseEstatica.runtimeconfig.json
+C:\Users\darlo\source\repos\ClasseEstatica\bin\Debug\netcoreapp3.1\ClasseEstatica.runtimeconfig.dev.json
+C:\Users\darlo\source\repos\ClasseEstatica\bin\Debug\netcoreapp3.1\ClasseEstatica.dll
+C:\Users\darlo\source\repos\ClasseEstatica\bin\Debug\netcoreapp3.1\ClasseEstatica.pdb
+C:\Users\darlo\source\repos\ClasseEstatica\obj\Debug\netcoreapp3.1\ClasseEstatica.dll
+C:\Users\darlo\source\repos\ClasseEstatica\obj\Debug\netcoreapp3.1\ClasseEstatica.pdb
+C:\Users\darlo\source\repos\ClasseEstatica\obj\Debug\netcoreapp3.1\ClasseEstatica.genruntimeconfig.cache
