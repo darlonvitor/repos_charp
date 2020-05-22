@@ -1,0 +1,13 @@
+C:\Users\darlo\source\repos\HerancaPolimorfismo\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.exe
+C:\Users\darlo\source\repos\HerancaPolimorfismo\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.deps.json
+C:\Users\darlo\source\repos\HerancaPolimorfismo\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.runtimeconfig.json
+C:\Users\darlo\source\repos\HerancaPolimorfismo\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\darlo\source\repos\HerancaPolimorfismo\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.dll
+C:\Users\darlo\source\repos\HerancaPolimorfismo\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.pdb
+C:\Users\darlo\source\repos\HerancaPolimorfismo\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.csprojAssemblyReference.cache
+C:\Users\darlo\source\repos\HerancaPolimorfismo\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\darlo\source\repos\HerancaPolimorfismo\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\darlo\source\repos\HerancaPolimorfismo\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\darlo\source\repos\HerancaPolimorfismo\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.dll
+C:\Users\darlo\source\repos\HerancaPolimorfismo\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.pdb
+C:\Users\darlo\source\repos\HerancaPolimorfismo\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.genruntimeconfig.cache
