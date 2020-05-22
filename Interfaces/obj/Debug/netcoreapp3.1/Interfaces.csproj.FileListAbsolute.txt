@@ -1,0 +1,17 @@
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\ClasseEstatica.exe
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\ClasseEstatica.dll
+C:\Users\darlo\source\repos\Interfaces\bin\Debug\netcoreapp3.1\ClasseEstatica.pdb
+C:\Users\darlo\source\repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete
