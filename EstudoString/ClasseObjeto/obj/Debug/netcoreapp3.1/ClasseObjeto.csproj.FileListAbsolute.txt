@@ -1,0 +1,13 @@
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\bin\Debug\netcoreapp3.1\ClasseObjeto.exe
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\bin\Debug\netcoreapp3.1\ClasseObjeto.deps.json
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\bin\Debug\netcoreapp3.1\ClasseObjeto.runtimeconfig.json
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\bin\Debug\netcoreapp3.1\ClasseObjeto.runtimeconfig.dev.json
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\bin\Debug\netcoreapp3.1\ClasseObjeto.dll
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\bin\Debug\netcoreapp3.1\ClasseObjeto.pdb
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\obj\Debug\netcoreapp3.1\ClasseObjeto.csprojAssemblyReference.cache
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\obj\Debug\netcoreapp3.1\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\obj\Debug\netcoreapp3.1\ClasseObjeto.AssemblyInfoInputs.cache
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\obj\Debug\netcoreapp3.1\ClasseObjeto.AssemblyInfo.cs
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\obj\Debug\netcoreapp3.1\ClasseObjeto.dll
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\obj\Debug\netcoreapp3.1\ClasseObjeto.pdb
+C:\Users\darlo\source\repos\EstudoString\ClasseObjeto\obj\Debug\netcoreapp3.1\ClasseObjeto.genruntimeconfig.cache
