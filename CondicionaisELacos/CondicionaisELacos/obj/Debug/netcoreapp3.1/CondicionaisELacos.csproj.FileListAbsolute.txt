@@ -1,0 +1,13 @@
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\bin\Debug\netcoreapp3.1\CondicionaisELacos.exe
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\bin\Debug\netcoreapp3.1\CondicionaisELacos.deps.json
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\bin\Debug\netcoreapp3.1\CondicionaisELacos.runtimeconfig.json
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\bin\Debug\netcoreapp3.1\CondicionaisELacos.runtimeconfig.dev.json
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\bin\Debug\netcoreapp3.1\CondicionaisELacos.dll
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\bin\Debug\netcoreapp3.1\CondicionaisELacos.pdb
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\obj\Debug\netcoreapp3.1\CondicionaisELacos.csprojAssemblyReference.cache
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\obj\Debug\netcoreapp3.1\CondicionaisELacos.csproj.CoreCompileInputs.cache
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\obj\Debug\netcoreapp3.1\CondicionaisELacos.AssemblyInfoInputs.cache
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\obj\Debug\netcoreapp3.1\CondicionaisELacos.AssemblyInfo.cs
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\obj\Debug\netcoreapp3.1\CondicionaisELacos.dll
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\obj\Debug\netcoreapp3.1\CondicionaisELacos.pdb
+C:\Users\darlo\source\repos\CondicionaisELacos\CondicionaisELacos\obj\Debug\netcoreapp3.1\CondicionaisELacos.genruntimeconfig.cache
