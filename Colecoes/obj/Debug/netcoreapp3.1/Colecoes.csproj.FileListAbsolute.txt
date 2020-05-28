@@ -1,0 +1,13 @@
+C:\Users\darlo\source\repos_csharp\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.csprojAssemblyReference.cache
+C:\Users\darlo\source\repos_csharp\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\darlo\source\repos_csharp\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfoInputs.cache
+C:\Users\darlo\source\repos_csharp\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfo.cs
+C:\Users\darlo\source\repos_csharp\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.exe
+C:\Users\darlo\source\repos_csharp\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.deps.json
+C:\Users\darlo\source\repos_csharp\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.json
+C:\Users\darlo\source\repos_csharp\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.dev.json
+C:\Users\darlo\source\repos_csharp\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.dll
+C:\Users\darlo\source\repos_csharp\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.pdb
+C:\Users\darlo\source\repos_csharp\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.dll
+C:\Users\darlo\source\repos_csharp\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.pdb
+C:\Users\darlo\source\repos_csharp\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.genruntimeconfig.cache
